@@ -1,0 +1,12 @@
+
+/* to fit the image and edit the brightness */
+/* object-fit: cover, contain;
+object-position: bottom, top, center;
+filter:brightness(120%) , grey scale(), invert(), sepia(), opacity()=transparent,blur(),hue-rotate()
+ background-image: url('https://media.istockphoto.com/id/1601021980/photo/california-sunset-perspective-2.jpg?s=612x612&w=is&k=20&c=SsC9yFBe8xLwoY0z9bI_u8oBZW-Uwib5IFS9CAcFSw4=');
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: scale(1.2);-increases or decreses the size of an element
+    transform: rotate(90deg)
+    transform: translate(50px, 50px)-it only moves the particular element without disturbing the other
+*/
